@@ -1,2 +1,2 @@
 # MineSweeper
-A clone of MineSweeper in java.
+A clone of MineSweeper in Java 8.
